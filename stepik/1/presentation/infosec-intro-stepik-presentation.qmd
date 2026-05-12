@@ -1,0 +1,134 @@
+---
+## Author
+author:
+  name: Лаптев Тимофей Сергеевич
+  degrees:
+  orcid:
+  email: 1132243021@pfur.ru
+  affiliation:
+    - name: Российский университет дружбы народов
+      country: Российская Федерация
+      postal-code: 117198
+      city: Москва
+      address: ул. Миклухо-Маклая, д. 6
+
+## Title
+title: "Разбор тестовых заданий по сетевым протоколам, куки, TOR и Wi-Fi"
+subtitle: "Презентация к реферату по дисциплине «Основы информационной безопасности»"
+license: CC BY
+date: today
+date-format: "YYYY-MM-DD"
+lang: ru-RU
+
+format:
+  beamer:
+    pdf-engine: xelatex
+    mainfont: "DejaVu Serif"
+    sansfont: "DejaVu Sans"
+    monofont: "DejaVu Sans Mono"
+    toc: false
+    number-sections: false
+    colorlinks: false
+    slide_level: 2
+    aspectratio: 169
+    section-titles: false
+    theme: metropolis
+    themeoptions: progressbar=frametitle,numbering=fraction
+    babel-lang: russian
+    babel-otherlangs: english
+
+  revealjs:
+    transition: slide
+    margin: 0.2
+    smaller: false
+    output-ext: html
+    theme: beige
+---
+
+# Информация о докладчике
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+- Лаптев Тимофей Сергеевич
+- Студент, направление НКАбд
+- Российский университет дружбы народов
+- Дисциплина: Основы информационной безопасности
+- Тема: разбор тестовых заданий
+
+:::
+::: {.column width="30%"}
+
+:::
+::::::::::::::
+
+# Протокол прикладного уровня
+
+![](image/1.png)
+
+# Уровень протокола TCP
+
+![](image/2.png)
+
+# Корректные IPv4-адреса
+
+![](image/3.png)
+
+# DNS сервер
+
+![](image/4.png)
+
+# Последовательность протоколов TCP/IP
+
+![](image/5.png)
+
+# Протокол HTTP
+
+![](image/6.png)
+
+# Протокол HTTPS
+
+![](image/7.png)
+
+# Что хранят куки
+
+![](image/9.png)
+
+# Для чего НЕ используются куки
+
+![](image/10.png)
+
+# Сессионные куки
+
+![](image/12.png)
+
+# Промежуточные узлы TOR
+
+![](image/13.png)
+
+# Кому известна информация в TOR
+
+![](image/14.png)
+
+# Генерация секретного ключа в TOR
+
+![](image/15.png)
+
+# Получатель и браузер Tor
+
+![](image/16.png)
+
+# Что такое Wi-Fi
+
+![](image/17.png)
+
+# Небезопасный метод Wi-Fi
+
+![](image/18.png)
+
+# Передача данных хост-роутер
+
+![](image/19.png)
+
+# Спасибо за внимание
+
