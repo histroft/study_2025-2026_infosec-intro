@@ -3,7 +3,7 @@
 author:
   name: Дмитрий Сергеевич Кулябов
   degrees: DSc
-  orcid: 0000-0002-0877-7063
+  orcid: 0000-0002-0877-7063sdsdsd
   email: kulyabov-ds@rudn.ru
   affiliation:
     - name: Российский университет дружбы народов
